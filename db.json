@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
       "id": 1,
       "title": "Cách nấu phở bò truyền thống",
@@ -18,8 +17,4 @@
       "body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng Flutter để phát triển ứng dụng di động.",
       "image": ""
     }
-  ],
-  "profile": {
-    "name": "Võ Văn Kiệt"
-  }
-}
+]
